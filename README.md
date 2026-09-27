@@ -1,7 +1,7 @@
 # Dalpex App — descargas
 
 Instaladores oficiales de **Dalpex App**, el launcher de HaxBall de Dalpex:
-estadios reales, hinchada con sonido, marcadores de TV, cámara de gol,
+estadios reales, hinchada con sonido, pelotas diferentes, avatar diferentes, modo Streamer, marcadores de TV, cámara de gol,
 festejos y repeticiones de tus goles.
 
 La app se compra y se administra desde **Dalpex Hub**. Este repositorio existe
